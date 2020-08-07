@@ -1,0 +1,140 @@
+.navbar {
+    min-height: 33px;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.navbar-nav>li>a,
+.navbar-brand {
+    padding-top: 6px !important;
+    padding-bottom: 0px !important;
+    height: 33px;
+}
+
+.col-md-9 {
+    width: 75%;
+    margin: 50 10px;
+}
+
+
+/*TWBS COLOR BOOTSTRAP */
+
+.navbar-default {
+    background-color: #eb6f31;
+    border-color: #ab5226;
+}
+
+.navbar-default .navbar-brand {
+    color: #ecf0f1;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #faf8fb;
+}
+
+.navbar-default .navbar-text {
+    color: #ecf0f1;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #ecf0f1;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+    color: #faf8fb;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #faf8fb;
+    background-color: #ab5226;
+}
+
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+    color: #faf8fb;
+    background-color: #ab5226;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ab5226;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #ab5226;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ecf0f1;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border-color: #ecf0f1;
+}
+
+.navbar-default .navbar-link {
+    color: #ecf0f1;
+}
+
+.navbar-default .navbar-link:hover {
+    color: #faf8fb;
+}
+
+
+/*Estilo personalizado */
+
+.site-header {
+    background-color: #282828;
+    color: #fff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.site-header .crear {
+    padding-top: 20px;
+}
+
+.color-principal,
+.panel-default>.panel-heading {
+    background-color: #eb6f31!important;
+    border-color: #eb6f31!important;
+    color: #fff !important;
+}
+
+.site-footer {
+    background-color: #282828;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+
+/*Media query*/
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #ecf0f1;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
+        color: #faf8fb;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a,
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
+        color: #faf8fb;
+        background-color: #ab5226;
+    }
+}
+
+.MainCarrito {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,177 @@
+:root {
+    --fuentePrincipal: 'Staatliches', cursive;
+    --primario: #9C27B0;
+    --primarioOscuro: #89119D;
+    --secundario: #FFCE00;
+}
+
+.seccion-bottom {
+    -webkit-box-shadow: 10px 10px 50px -38px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 50px -38px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 50px -38px rgba(0, 0, 0, 0.75);
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 4rem;
+    font-family: var(--fuentePrincipal);
+}
+
+p {
+    font-size: 1.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.seccion {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+.contenedor {
+    max-width: 1000px;
+    width: 95%;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+.header {
+    display: grid;
+    justify-content: center;
+    padding: 3rem 0;
+}
+
+.barra {
+    background-color: var(--primarioOscuro);
+    padding: 1rem 0;
+}
+
+.barra .nav {
+    text-align: center;
+}
+
+.barra .nav a {
+    font-family: var(--fuentePrincipal);
+    font-size: 3rem;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    padding-left: 5rem;
+}
+
+.barra .nav a:hover {
+    color: var(--secundario)
+}
+
+.lista-productos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+}
+
+@media (min-width:768px) {
+    .lista-productos {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.producto {
+    padding: 1rem;
+}
+
+.contenido-producto p {
+    font-family: var(--fuentePrincipal);
+    color: #ffff;
+    text-align: center;
+    margin: 1rem 0;
+    line-height: 1.2;
+}
+
+.contenido-producto .titulo {
+    font-size: 4rem;
+}
+
+.contenido-producto .precio {
+    font-size: 2.8rem;
+    color: var(--secundario);
+}
+
+.contenedor-informacion {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-column-gap: 2rem;
+}
+
+.imagen .producto {
+    width: 100%;
+}
+
+.footer {
+    background-color: var(--primarioOscuro);
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+.copyright {
+    font-family: var(--fuentePrincipal);
+    color: #ffffff;
+    font-size: 2.2rem;
+    font-size: 2.2rem;
+    text-align: center;
+}
+
+.formulario-pedido {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 6rem);
+    grid-gap: 1rem;
+}
+
+.campo {
+    background-color: transparent;
+    border: 5px solid #faf8fb;
+    font-family: var(--fuentePrincipal);
+    font-size: 3rem;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
+
+.talla {
+    -webkit-appearance: none;
+    grid-column: 1/3;
+}
+
+.boton {
+    background-color: #737373;
+    font-size: 2rem;
+    border: none;
+    transition: background-color .3s ease;
+    color: black;
+    grid-column: 1/3;
+}
+
+.boton:hover {
+    cursor: pointer;
+    background-color: rgb(53, 52, 46)
+}
+
+.contenido-producto button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #2d2d2d;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.contenido-producto button:hover {
+    opacity: 0.7;
+}

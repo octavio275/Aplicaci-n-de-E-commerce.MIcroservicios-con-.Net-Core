@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OuUlZtwIsvPKu0Ul1Yqfi1AeNM/LgYjz2rKdfNsHugMdX4gm8/wJWalY/IAV4+t5A30BrUGL3QrSU/paRB/ydQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeAplicacion\\CapaDeAplicacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facun\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

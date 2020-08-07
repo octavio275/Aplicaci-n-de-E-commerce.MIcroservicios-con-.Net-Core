@@ -1,0 +1,77 @@
+img {
+    width: 100%;
+}
+
+.seccion-bottom {
+    -webkit-box-shadow: 10px 10px 50px -38px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 50px -38px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 50px -38px rgba(0, 0, 0, 0.75);
+}
+
+.seccion-top {
+    padding-top: 6rem;
+}
+
+.login {
+    width: 60px;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    margin-left: 0px;
+}
+
+.carrito {
+    width: 70px;
+    height: 70px;
+    margin: 0;
+    padding: 0;
+}
+
+.conte {
+    margin-top: 200px;
+    overflow: hidden;
+}
+
+.boton {
+    width: 50px;
+    height: 10px;
+    text-align: center;
+    background: #eb94d0;
+    background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+    background-image: -moz-linear-gradient(top, #eb94d0, #2079b0);
+    background-image: -ms-linear-gradient(top, #eb94d0, #2079b0);
+    background-image: -o-linear-gradient(top, #eb94d0, #2079b0);
+    background-image: linear-gradient(to bottom, #eb94d0, #2079b0);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 3px 2px 1px #9daef5;
+    -webkit-box-shadow: 6px 5px 24px #666666;
+    -moz-box-shadow: 6px 5px 24px #666666;
+    box-shadow: 6px 5px 24px #666666;
+    font-family: Arial;
+    color: #fafafa;
+    font-size: 20px;
+    padding: 19px;
+    text-decoration: none;
+}
+
+.boton:hover {
+    background: #2079b0;
+    background-image: -webkit-linear-gradient(top, #2079b0, #eb94d0);
+    background-image: -moz-linear-gradient(top, #2079b0, #eb94d0);
+    background-image: -ms-linear-gradient(top, #2079b0, #eb94d0);
+    background-image: -o-linear-gradient(top, #2079b0, #eb94d0);
+    background-image: linear-gradient(to bottom, #2079b0, #eb94d0);
+    text-decoration: none;
+}
+
+
+/* PRODUCTOS TITULO */
+
+.panel-title {
+    text-align: center!important;
+}
+
+
+/* icono navegaro */

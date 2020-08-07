@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+
+<html class="no-js">
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Producto</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+
+    <!-- Facebook and Twitter integration -->
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:description" content="" />
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:image" content="" />
+    <meta name="twitter:url" content="" />
+    <meta name="twitter:card" content="" />
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700,900' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Superfish -->
+    <link rel="stylesheet" href="css/superfish.css">
+    <!-- Flexslider  -->
+    <link rel="stylesheet" href="css/flexslider.css">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- StylePublicacion  -->
+    <link rel="stylesheet" href="css/Publicacion.css">
+
+    <!-- Modernizr JS -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap" rel="stylesheet">
+
+
+
+    <style>
+        .image {
+            opacity: 1;
+            width: 100%;
+            height: auto;
+            transition: .5s ease;
+            backface-visibility: hidden;
+        }
+        
+        .containere {
+            position: relative!important;
+            width: 50%;
+        }
+        
+        .middle {
+            transition: .5s ease;
+            opacity: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        
+        .containere:hover .middle {
+            opacity: 1;
+        }
+        
+        a {
+            color: #76939e;
+            -webkit-transition: 0.5s;
+            -o-transition: 0.5s;
+            transition: 0.5s;
+        }
+        
+        .container-fluid-navbar {
+            margin-right: auto;
+            margin-left: auto;
+            padding-left: 15px;
+            padding-right: 50px;
+        }
+        
+        .fa {
+            display: inline-block;
+            font: normal normal normal 14px/1 FontAwesome;
+            font-size: 20px;
+            text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        
+        .btn-default {
+            color: #fdf3f3;
+            background-color: #d8bcbc;
+            border-color: #ccc;
+        }
+        
+        .barraClasificadora {
+            margin: 10px;
+        }
+        
+        .topnav {
+            overflow: hidden;
+        }
+        
+        .topnav li a {
+            display: block;
+            color: black;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+            border-bottom: 3px solid transparent;
+        }
+        
+        .topnav a:hover {
+            border-bottom: 3px solid red;
+            cursor: pointer;
+        }
+        
+        .description-producto {
+            cursor: pointer!important;
+        }
+        
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            min-width: 160px;
+            background-color: white;
+            z-index: 1;
+        }
+        
+        .dropdown-content a {
+            color: black;
+        }
+        
+        .dropdown button {
+            padding-top: 18px;
+            background-color: white;
+            outline: none!important;
+            border: none;
+        }
+        
+        .TituloNombre {
+            font-weight: 150;
+            font-size: 25px;
+            margin-bottom: 0px;
+            font-family: 'Roboto', sans-serif;
+        }
+        
+        .Precio {
+            font-size: 30px;
+            font-weight: 300;
+            color: rgb(31, 30, 30);
+        }
+        
+        .seccionStock {
+            margin-top: 1px;
+            margin-bottom: 15px;
+        }
+        
+        .Txtcantidad {
+            font-size: 15px;
+            font-weight: 700;
+            color: black;
+        }
+        
+        .seccionCantidad {
+            margin-top: 1px;
+            margin-bottom: 15px;
+        }
+        
+        .seccionBotones {
+            margin-top: 20px;
+            margin-bottom: 15px;
+        }
+        
+        .btn-VerMas {
+            font-size: 20px;
+            text-decoration: none!important;
+        }
+        /*Renovando el nuevo*/
+        
+        .Contenedor-main-comentarios {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #f1eeee;
+            border-radius: 20px;
+        }
+        
+        .gradiente {
+            -webkit-box-shadow: 0px 9px 21px -5px rgba(0, 0, 0, 0.75);
+            -moz-box-shadow: 0px 9px 21px -5px rgba(0, 0, 0, 0.75);
+            box-shadow: 0px 9px 21px -5px rgba(0, 0, 0, 0.75);
+        }
+        
+        .Imagen-Producto {
+            border-end-start-radius: 20px;
+        }
+        
+        .checked {
+            color: orange;
+        }
+        
+        .puntaje {
+            margin-top: 10px;
+        }
+        
+        .comentarios-navegador {
+            color: green;
+        }
+        
+        #div1 {
+            font-size: 28px;
+        }
+        
+        .media {
+            border: 2px solid #ccc;
+            background-color: rgb(231, 224, 224);
+            border-radius: 5px;
+            padding: 10px;
+            margin: 16px 0;
+        }
+        
+        .media::after {
+            content: "";
+            clear: both;
+        }
+        
+        .spacing {
+            margin-bottom: 30px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header class=" seccion-bottom  ">
+        <div class="container-fluid  ">
+            <div class="navbar-header ">
+                <a class="navbar-brand" href="PaginaPrincipal.html"><img src="images/logo.png" style="width: 40% ;"></a>
+            </div>
+
+
+            <ul class="nav navbar-nav navbar-right container-fluid-navbar">
+                <form class="navbar-form navbar-left " id="formulario">
+                    <div class="form-group">
+                        <input type="text" class="form-control  w3-margin-top" placeholder="Buscar.." id="search">
+                    </div>
+                    <button type="submit" class="btn  w3-margin-top"><i class="glyphicon glyphicon-search"></i></button>
+                </form>
+
+                <li>
+                    <div class="dropdown">
+                        <button><i class="  fas fa-user-alt w3-margin-top " aria-hidden="true" style='font-size:24px'></i></button>
+                        <div class="dropdown-content" id="dropdown">
+                            <a href="login.html" onclick="iniciarSesion();">Iniciar sesión</a>
+
+                        </div>
+                    </div>
+                </li>
+
+                <li><a href="Cart.html"><i class="fa fa-shopping-cart w3-margin-top" aria-hidden="true" style="font-size: 24px;"></i></a></li>
+
+            </ul>
+
+
+        </div>
+
+        <div class="container w3-margin-top ">
+            <ul class="nav  nav-justified w3-center topnav">
+                <li>
+                    <a class="barraClasificadora" onclick='FiltrarDescripcion("Indumentaria Invierno");'>Indumentaria Invierno</a>
+                </li>
+                <li>
+                    <a class="barraClasificadora" onclick='FiltrarDescripcion("Indumentaria Verano");'><img src="https://css.drlcdn.com/imagecache/dresslilyV3/static/img/common/nav-fire-icon-pc.gif" alt=""> Indumentaria Verano</a>
+                </li>
+                <li>
+                    <a class="barraClasificadora" onclick='FiltrarDescripcion("Indumentaria otoño");'>Indumentaria otoño </a>
+                </li>
+
+            </ul>
+        </div>
+
+    </header>
+
+    <div class="Contenedor-main-comentarios gradiente spacing">
+        <main class="contenedor seccion" id="contenedorMaestro">
+
+            <div class="contenedor-informacion" id="contenedorAprendiz">
+                <img alt="Imagen-Producto" class="imagen producto" id="producto">
+                <div class="contenido">
+                    <p class="TituloNombre" id="nombre">PresentShow - Short verano - indumentaria verano<img src="https://css.drlcdn.com/imagecache/dresslilyV3/static/img/common/nav-fire-icon-pc.gif" alt=""></p>
+                    <div class="puntaje">
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star"></span>
+                        <span class="fa fa-star"></span>
+                        <span><a href="#secciones" class="comentarios-navegador">| <span id="CountComments"></span> comentario>></a>
+                        </span>
+                    </div>
+                    <span class="Precio" id="precio">$5400</span>
+
+                    <div class="seccionStock">
+                        <span class="label label-success  posicion">Stock Disponible</span>
+                    </div>
+
+                    <form class="formulario-pedido">
+                        <div class="seccionCantidad">
+                            <Label class="Txtcantidad" id="stock">CANTIDAD</Label>
+                            <input class="form-control" min="1" max="10" type="number" id="cantidadProducto">
+                        </div>
+                    </form>
+
+                    <p>Aceptamos tarjetas <span class="fab fa-cc-visa"></span > <span class="fab fa-cc-mastercard	"></span></p>
+
+
+                    <div class="seccionBotones contenido-producto">
+                        <button class=" boton  " onclick="AgregarAlCarrito();"><span class="glyphicon glyphicon-shopping-cart"></span> AGREGAR AL CARRITO</button>
+                    </div>
+                </div>
+
+
+            </div>
+
+        </main>
+        <div id="borrar">
+            <section class="comentarios seccion" id="seccionComentarios">
+
+                <div class="container">
+
+
+                    <h2>
+                        <div id="div1" class="fa "> </div>
+
+                        Comentarios
+                    </h2>
+
+                    <hr>
+                    <div class="row">
+                        <div class="col-sm-1">
+                            <div class="media-left">
+                                <img src="images/iconousuario.png" class="img-rounded" alt="Cinque Terre" class="media-object" style="width:60px">
+
+                            </div>
+                        </div>
+                        <div class="col-sm-11">
+                            <div class="panel panel-default">
+                                <div class="">
+                                    <textarea name="text" class="form-control" placeholder="Agregar un  Comentario.." id="comentario"></textarea>
+
+
+                                </div>
+                            </div>
+                            <button class="btn btn-primary pull-right " onclick="comentar();">Comentar</button>
+                        </div>
+
+                    </div>
+                    <hr>
+                </div>
+
+
+
+
+
+                <article class="container seccion" id="secciones">
+
+
+
+
+                </article>
+
+                <div class="container">
+                    <button class="btn btn-link btn-VerMas" onclick="VerMas();">Ver más comentarios </button>
+                </div>
+            </section>
+        </div>
+
+        <div class="container-fluid">
+            <div class="container">
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+    <div id="borrar2">
+
+        <footer id="fh5co-footer" role="contentinfo">
+            <div class="container">
+
+                <div class="footer-content">
+
+                    <div class="social">
+
+                        <p>Universidad arturo Juretche | Grupo: Lince | Integrantes: Ayala Matias, Alan marengo , Octavio Jorge</p>
+
+                    </div>
+                </div>
+
+            </div>
+        </footer>
+
+    </div>
+
+
+    <script type="text/javascript" src="js/localstoragePublicacion.js"></script>
+    <script type="text/javascript" src="js/producto.js"></script>
+    <script type="text/javascript" src="js/jquery-3.4.1.js"></script>
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- masonry -->
+    <script src="js/jquery.masonry.min.js"></script>
+    <!-- MAIN JS -->
+    <script src="js/main.js"></script>
+    <!--Icono boopstrap school3-->
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+</body>
+
+</html>

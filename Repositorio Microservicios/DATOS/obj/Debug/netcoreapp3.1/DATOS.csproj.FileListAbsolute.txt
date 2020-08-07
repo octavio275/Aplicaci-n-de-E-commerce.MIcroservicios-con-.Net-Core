@@ -1,0 +1,59 @@
+C:\Users\Alan\source\repos\DATOS\bin\Debug\netcoreapp3.1\DATOS.deps.json
+C:\Users\Alan\source\repos\DATOS\bin\Debug\netcoreapp3.1\DATOS.dll
+C:\Users\Alan\source\repos\DATOS\obj\Debug\netcoreapp3.1\DATOS.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\DATOS\obj\Debug\netcoreapp3.1\DATOS.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\DATOS\obj\Debug\netcoreapp3.1\DATOS.AssemblyInfo.cs
+C:\Users\Alan\source\repos\DATOS\bin\Debug\netcoreapp3.1\DATOS.runtimeconfig.json
+C:\Users\Alan\source\repos\DATOS\bin\Debug\netcoreapp3.1\DATOS.runtimeconfig.dev.json
+C:\Users\Alan\source\repos\DATOS\obj\Debug\netcoreapp3.1\DATOS.genruntimeconfig.cache
+C:\Users\Alan\source\repos\DATOS\bin\Debug\netcoreapp3.1\DATOS.pdb
+C:\Users\Alan\source\repos\DATOS\bin\Debug\netcoreapp3.1\DOMINIO.dll
+C:\Users\Alan\source\repos\DATOS\bin\Debug\netcoreapp3.1\DOMINIO.pdb
+C:\Users\Alan\source\repos\DATOS\obj\Debug\netcoreapp3.1\DATOS.csproj.CopyComplete
+C:\Users\Alan\source\repos\DATOS\obj\Debug\netcoreapp3.1\DATOS.dll
+C:\Users\Alan\source\repos\DATOS\obj\Debug\netcoreapp3.1\DATOS.pdb
+C:\Users\Alan\Documents\disco viejo\DATOS\bin\Debug\netcoreapp3.1\DATOS.deps.json
+C:\Users\Alan\Documents\disco viejo\DATOS\bin\Debug\netcoreapp3.1\DATOS.runtimeconfig.json
+C:\Users\Alan\Documents\disco viejo\DATOS\bin\Debug\netcoreapp3.1\DATOS.runtimeconfig.dev.json
+C:\Users\Alan\Documents\disco viejo\DATOS\bin\Debug\netcoreapp3.1\DATOS.dll
+C:\Users\Alan\Documents\disco viejo\DATOS\bin\Debug\netcoreapp3.1\DATOS.pdb
+C:\Users\Alan\Documents\disco viejo\DATOS\bin\Debug\netcoreapp3.1\DOMINIO.dll
+C:\Users\Alan\Documents\disco viejo\DATOS\bin\Debug\netcoreapp3.1\DOMINIO.pdb
+C:\Users\Alan\Documents\disco viejo\DATOS\obj\Debug\netcoreapp3.1\DATOS.csprojAssemblyReference.cache
+C:\Users\Alan\Documents\disco viejo\DATOS\obj\Debug\netcoreapp3.1\DATOS.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\disco viejo\DATOS\obj\Debug\netcoreapp3.1\DATOS.AssemblyInfo.cs
+C:\Users\Alan\Documents\disco viejo\DATOS\obj\Debug\netcoreapp3.1\DATOS.csproj.CopyComplete
+C:\Users\Alan\Documents\disco viejo\DATOS\obj\Debug\netcoreapp3.1\DATOS.dll
+C:\Users\Alan\Documents\disco viejo\DATOS\obj\Debug\netcoreapp3.1\DATOS.pdb
+C:\Users\Alan\Documents\disco viejo\DATOS\obj\Debug\netcoreapp3.1\DATOS.genruntimeconfig.cache
+C:\Users\Alan\Documents\disco viejo\DATOS\obj\Debug\netcoreapp3.1\DATOS.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\bin\Debug\netcoreapp3.1\DATOS.deps.json
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\bin\Debug\netcoreapp3.1\DATOS.runtimeconfig.json
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\bin\Debug\netcoreapp3.1\DATOS.runtimeconfig.dev.json
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\bin\Debug\netcoreapp3.1\DATOS.dll
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\bin\Debug\netcoreapp3.1\DATOS.pdb
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\bin\Debug\netcoreapp3.1\DOMINIO.dll
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\bin\Debug\netcoreapp3.1\DOMINIO.pdb
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\obj\Debug\netcoreapp3.1\DATOS.csprojAssemblyReference.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\obj\Debug\netcoreapp3.1\DATOS.AssemblyInfoInputs.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\obj\Debug\netcoreapp3.1\DATOS.AssemblyInfo.cs
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\obj\Debug\netcoreapp3.1\DATOS.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\obj\Debug\netcoreapp3.1\DATOS.csproj.CopyComplete
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\obj\Debug\netcoreapp3.1\DATOS.dll
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\obj\Debug\netcoreapp3.1\DATOS.pdb
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\DATOS\obj\Debug\netcoreapp3.1\DATOS.genruntimeconfig.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\bin\Debug\netcoreapp3.1\DATOS.deps.json
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\bin\Debug\netcoreapp3.1\DATOS.runtimeconfig.json
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\bin\Debug\netcoreapp3.1\DATOS.runtimeconfig.dev.json
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\bin\Debug\netcoreapp3.1\DATOS.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\bin\Debug\netcoreapp3.1\DATOS.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\bin\Debug\netcoreapp3.1\DOMINIO.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\bin\Debug\netcoreapp3.1\DOMINIO.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\obj\Debug\netcoreapp3.1\DATOS.csprojAssemblyReference.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\obj\Debug\netcoreapp3.1\DATOS.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\obj\Debug\netcoreapp3.1\DATOS.AssemblyInfo.cs
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\obj\Debug\netcoreapp3.1\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\obj\Debug\netcoreapp3.1\DATOS.csproj.CopyComplete
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\obj\Debug\netcoreapp3.1\DATOS.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\obj\Debug\netcoreapp3.1\DATOS.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\DATOS\obj\Debug\netcoreapp3.1\DATOS.genruntimeconfig.cache

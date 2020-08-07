@@ -1,0 +1,62 @@
+C:\Users\Geet\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\Geet\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.pdb
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.deps.json
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.pdb
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csprojAssemblyReference.cache
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.AssemblyInfoInputs.cache
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.AssemblyInfo.cs
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csproj.CopyComplete
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.pdb
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.deps.json
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.pdb
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csprojAssemblyReference.cache
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.AssemblyInfoInputs.cache
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.AssemblyInfo.cs
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csproj.CopyComplete
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.pdb
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.deps.json
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.pdb
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csprojAssemblyReference.cache
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.AssemblyInfoInputs.cache
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.AssemblyInfo.cs
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csproj.CopyComplete
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.deps.json
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csprojAssemblyReference.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.AssemblyInfo.cs
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csproj.CopyComplete
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.pdb
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.deps.json
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeAplicacion.pdb
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\bin\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csprojAssemblyReference.cache
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.AssemblyInfoInputs.cache
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.AssemblyInfo.cs
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.csproj.CopyComplete
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.dll
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeAplicacion\obj\Debug\netcoreapp3.1\CapaDeAplicacion.pdb

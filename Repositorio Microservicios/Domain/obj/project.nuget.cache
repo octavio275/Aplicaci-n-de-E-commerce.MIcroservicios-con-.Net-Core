@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "DRUwCtoi9NeK6EZHnkfPAchnTi9GD/5EIFDs2dZ4bHr/gx1EJGUZ9mXvb73+eSniyTSX0ezlDuQO6UYmKTFa0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facun\\.nuget\\packages\\firebaseadmin\\1.14.0\\firebaseadmin.1.14.0.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\google.api.gax\\2.7.0\\google.api.gax.2.7.0.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\google.api.gax.rest\\2.7.0\\google.api.gax.rest.2.7.0.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\google.apis\\1.40.0\\google.apis.1.40.0.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\google.apis.auth\\1.40.0\\google.apis.auth.1.40.0.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\google.apis.core\\1.40.0\\google.apis.core.1.40.0.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.6\\microsoft.aspnetcore.metadata.3.1.6.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\facun\\.nuget\\packages\\system.interactive.async\\3.2.0\\system.interactive.async.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

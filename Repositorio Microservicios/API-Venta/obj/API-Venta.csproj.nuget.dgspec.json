@@ -1,0 +1,303 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\API-Venta\\API-Venta.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\API-Venta\\API-Venta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\API-Venta\\API-Venta.csproj",
+        "projectName": "API-Venta",
+        "projectPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\API-Venta\\API-Venta.csproj",
+        "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\API-Venta\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaAccesoDatos\\CapaAccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaAccesoDatos\\CapaAccesoDatos.csproj"
+              },
+              "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeAplicacion\\CapaDeAplicacion.csproj": {
+                "projectPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeAplicacion\\CapaDeAplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "SqlKata.Execution": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaAccesoDatos\\CapaAccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaAccesoDatos\\CapaAccesoDatos.csproj",
+        "projectName": "CapaAccesoDatos",
+        "projectPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaAccesoDatos\\CapaAccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaAccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeAplicacion\\CapaDeAplicacion.csproj": {
+                "projectPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeAplicacion\\CapaDeAplicacion.csproj"
+              },
+              "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeDominio\\CapaDeDominio.csproj": {
+                "projectPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeDominio\\CapaDeDominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "SqlKata.Execution": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeAplicacion\\CapaDeAplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeAplicacion\\CapaDeAplicacion.csproj",
+        "projectName": "CapaDeAplicacion",
+        "projectPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeAplicacion\\CapaDeAplicacion.csproj",
+        "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeAplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeDominio\\CapaDeDominio.csproj": {
+                "projectPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeDominio\\CapaDeDominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeDominio\\CapaDeDominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeDominio\\CapaDeDominio.csproj",
+        "projectName": "CapaDeDominio",
+        "projectPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeDominio\\CapaDeDominio.csproj",
+        "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\facun\\Desktop\\sdfss\\Repositorio Microservicios\\CapaDeDominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

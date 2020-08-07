@@ -1,0 +1,45 @@
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDominio.dll
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.runtimeconfig.json
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.runtimeconfig.dev.json
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDominio.pdb
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CopyComplete
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.genruntimeconfig.cache
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.runtimeconfig.json
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.runtimeconfig.dev.json
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDominio.dll
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDominio.pdb
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csprojAssemblyReference.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CopyComplete
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.genruntimeconfig.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.runtimeconfig.json
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.runtimeconfig.dev.json
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDominio.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\bin\Debug\netcoreapp3.1\CapaDominio.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CopyComplete
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.genruntimeconfig.cache

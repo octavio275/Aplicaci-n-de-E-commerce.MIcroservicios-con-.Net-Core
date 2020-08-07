@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:description" content="" />
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:image" content="" />
+    <meta name="twitter:url" content="" />
+    <meta name="twitter:card" content="" />
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="favicon.ico">
+    <!--Icons weasome-->
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700,900' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Superfish -->
+    <link rel="stylesheet" href="css/superfish.css">
+    <!-- Flexslider  -->
+    <link rel="stylesheet" href="css/flexslider.css">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet" href="css/estilosMenu.css">
+
+    <script src="js/modernizr-2.6.2.min.js"></script>
+
+    <style>
+        .container-fluid-navbar {
+            margin-right: auto;
+            margin-left: auto;
+            padding-left: 15px;
+            padding-right: 50px;
+        }
+        
+        .containere {
+            position: relative!important;
+            width: 50%;
+        }
+        
+        .image {
+            opacity: 1;
+            width: 100%;
+            height: auto;
+            transition: .5s ease;
+            backface-visibility: hidden;
+        }
+        
+        .middle {
+            transition: .5s ease;
+            opacity: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        
+        .containere:hover .middle {
+            opacity: 1;
+        }
+        
+        .text {
+            color: black;
+            font-size: 14px;
+            margin-left: 10px;
+            margin-right: 10px;
+            background-color: white;
+            font-weight: bold
+        }
+        
+        a {
+            color: #76939e;
+            -webkit-transition: 0.5s;
+            -o-transition: 0.5s;
+            transition: 0.5s;
+        }
+        
+        .fa {
+            display: inline-block;
+            font: normal normal normal 14px/1 FontAwesome;
+            font-size: 20px;
+            text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        
+        .btn-default {
+            color: #fdf3f3;
+            background-color: #d8bcbc;
+            border-color: #ccc;
+        }
+        
+        .barraClasificadora {
+            margin: 10px;
+        }
+        
+        .topnav {
+            overflow: hidden;
+        }
+        
+        .topnav li a {
+            display: block;
+            color: black;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+            border-bottom: 3px solid transparent;
+        }
+        
+        .topnav a:hover {
+            border-bottom: 3px solid red;
+            cursor: pointer;
+        }
+        
+        .description-producto {
+            cursor: pointer!important;
+        }
+        
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            min-width: 160px;
+            background-color: white;
+            z-index: 1;
+        }
+        
+        .dropdown-content a {
+            color: black;
+        }
+        
+        .dropdown button {
+            padding-top: 18px;
+            background-color: white;
+            outline: none!important;
+            border: none;
+        }
+        
+        .servicios {
+            margin: 3rem auto;
+        }
+        
+        .contenedor-servicios {
+            margin-top: 3rem;
+        }
+        
+        @media (min-width:768px) {
+            .contenedor-servicios {
+                display: flex;
+                justify-content: space-between;
+            }
+            .servicio {
+                flex: 0 0 calc( 33.3% - 1rem);
+            }
+        }
+        
+        .servicio {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .service-text {
+            margin: 0;
+            text-align: center;
+            letter-spacing: 2px;
+            font-weight: 300;
+        }
+        
+        img {
+            width: 100px;
+        }
+        
+        .MainCarrito {
+            display: flex;
+            justify-content: center;
+        }
+        
+        .col-md-9 {
+            width: 75%;
+            margin: 50px 10px;
+        }
+        
+        .centrar {
+            text-align: center;
+        }
+        
+        .centrar-boton {
+            vertical-align: middle!important;
+        }
+        
+        .titulo {
+            vertical-align: middle!important;
+        }
+        
+        .precio {
+            vertical-align: middle!important;
+        }
+        
+        .cantidad {
+            vertical-align: middle!important;
+        }
+        
+        .contenedor {
+            max-width: 1000px;
+            width: 95%;
+            margin: 0 auto;
+        }
+        
+        .texto-error {
+            text-align: center;
+            font-size: 20px;
+        }
+        
+        #div1 {
+            font-size: 30px;
+        }
+        
+        .btn-danger {
+            color: #fff;
+            background-color: #e2adac;
+            border-color: #c96663;
+            transition: 2s;
+        }
+        
+        .btn-success {
+            color: #fff;
+            background-color: #88bb88;
+            border-color: #4cae4c;
+        }
+        
+        .mifueguito {
+            width: 15px;
+        }
+    </style>
+
+</head>
+
+<body id="body">
+    <header class=" seccion-bottom  ">
+        <div class="container-fluid  ">
+            <div class="navbar-header ">
+                <a class="navbar-brand" href="PaginaPrincipal.html"><img src="images/logo.png" style="width: 40% ;"></a>
+            </div>
+
+
+            <ul class="nav navbar-nav navbar-right container-fluid-navbar">
+                <form class="navbar-form navbar-left " id="formulario">
+                    <div class="form-group">
+                        <input type="search" class="form-control  w3-margin-top" placeholder="Buscar.." id="search">
+                    </div>
+                    <button type="submit" class="btn  w3-margin-top"><i class="glyphicon glyphicon-search"></i></button>
+                </form>
+
+                <li>
+                    <div class="dropdown">
+                        <button><i class="  fas fa-user-alt w3-margin-top " aria-hidden="true" style='font-size:24px'></i></button>
+                        <div class="dropdown-content" id="contenido">
+                            <a href="login.html" onclick="iniciarSesion();">Iniciar sesión</a>
+                        </div>
+                    </div>
+                </li>
+
+                <li><a href="Cart.html"><i class="fa fa-shopping-cart w3-margin-top" aria-hidden="true" style="font-size: 24px;"></i></a></li>
+                <li id="configuracion"></li>
+            </ul>
+
+
+        </div>
+
+        <div class="container w3-margin-top ">
+            <ul class="nav  nav-justified w3-center topnav">
+                <li>
+                    <a class="barraClasificadora" onclick='FiltrarDescripcion("Indumentaria Invierno");'>Indumentaria Invierno</a>
+                </li>
+                <li>
+                    <a class="barraClasificadora" onclick='FiltrarDescripcion("Indumentaria Verano");'><img class="mifueguito" src="https://css.drlcdn.com/imagecache/dresslilyV3/static/img/common/nav-fire-icon-pc.gif" alt="">Indumentaria Verano</a>
+                </li>
+                <li>
+                    <a class="barraClasificadora" onclick='FiltrarDescripcion("Indumentaria Otoño");'>Indumentaria otoño </a>
+                </li>
+
+            </ul>
+        </div>
+
+    </header>
+
+
+
+    <main class="MainCarrito" id="main">
+        <div class="col-md-9" id="maestro">
+
+            <div class="panel panel-default">
+
+                <!--Panel del titulo-->
+                <div class="panel-body">
+
+                    <br>
+                    <table class="table table-striped table-hover" id="contenedor">
+                        <tr>
+                            <th>Producto</th>
+                            <th>Nombre</th>
+                            <th>Precio</th>
+                            <th>Cantidad</th>
+                            <th>Eliminar</th>
+
+                        </tr>
+                    </table>
+                    <div class="contenedor-total">
+                        <label class="pull-right " id="precio">0</label>
+                    </div>
+                    <div class="contenedor-boton" id="cancelarBoton">
+                        <button class="btn btn-danger " onclick="cancelar();">Cancelar</button>
+                        <button class="btn btn-success " onclick="comprar();" data-toggle="modal" data-target="#myModal">Comprar</button>
+                        <div id="comentario1 ">
+                        </div>
+                    </div>
+
+
+
+                </div>
+
+                <!--Panel de body-->
+            </div>
+
+        </div>
+
+
+    </main>
+
+
+
+
+
+
+    <footer id="footerr" role="contentinfo">
+        <div class="container">
+
+            <div class="footer-content">
+
+                <div class="social">
+
+                    <p>Universidad arturo Juretche | Grupo: Lince | Integrantes: Ayala Matias, Alan marengo , Octavio Jorge</p>
+
+                </div>
+            </div>
+
+        </div>
+    </footer>
+
+
+
+
+
+    <script type="text/javascript" src="js/carrito.js"></script>
+
+    <script type="text/javascript" src="js/jquery-3.4.1.js"></script>
+    <!-- jQuery -->
+    <script src="js/jquery.min.js "></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js "></script>
+    <!-- masonry -->
+    <script src="js/jquery.masonry.min.js "></script>
+    <!-- MAIN JS -->
+    <script src="js/main.js "></script>
+    <!--Iconos W3Schools Boopstrap-->
+    <!--Icono boopstrap school3-->
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+    <!--Boopstrap 4 links-->
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+
+
+</body>
+
+</html>

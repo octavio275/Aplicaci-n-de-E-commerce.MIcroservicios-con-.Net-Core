@@ -1,0 +1,27 @@
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDominio\bin\Debug\netcoreapp3.1\CapaDominio.deps.json
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDominio\bin\Debug\netcoreapp3.1\CapaDominio.dll
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.AssemblyInfo.cs
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDominio\bin\Debug\netcoreapp3.1\CapaDominio.pdb
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.dll
+C:\Users\Alan\source\repos\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.pdb
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDominio\bin\Debug\netcoreapp3.1\CapaDominio.deps.json
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDominio\bin\Debug\netcoreapp3.1\CapaDominio.dll
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDominio\bin\Debug\netcoreapp3.1\CapaDominio.pdb
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.csprojAssemblyReference.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.AssemblyInfoInputs.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.AssemblyInfo.cs
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.dll
+C:\xampp\htdocs\repositorio2\ProyectoSoftware-PaginaWeb\Proyectoactualizado2.2\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDominio\bin\Debug\netcoreapp3.1\CapaDominio.deps.json
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDominio\bin\Debug\netcoreapp3.1\CapaDominio.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDominio\bin\Debug\netcoreapp3.1\CapaDominio.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.csprojAssemblyReference.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.AssemblyInfo.cs
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\MicroservicioCarrito\CapaDominio\obj\Debug\netcoreapp3.1\CapaDominio.pdb

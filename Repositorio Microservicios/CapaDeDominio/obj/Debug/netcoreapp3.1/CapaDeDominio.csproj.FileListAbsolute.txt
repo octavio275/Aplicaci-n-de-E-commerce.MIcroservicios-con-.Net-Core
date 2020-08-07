@@ -1,0 +1,47 @@
+C:\Users\Geet\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\Geet\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.deps.json
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.csprojAssemblyReference.cache
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.AssemblyInfoInputs.cache
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.AssemblyInfo.cs
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.csproj.CoreCompileInputs.cache
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\ayala\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.deps.json
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.csprojAssemblyReference.cache
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.AssemblyInfoInputs.cache
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.AssemblyInfo.cs
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.csproj.CoreCompileInputs.cache
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\facun\Source\Repos\matiasnauel\API-VENTA\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.deps.json
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.csprojAssemblyReference.cache
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.AssemblyInfoInputs.cache
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.AssemblyInfo.cs
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\ProyectoSoftware-PaginaWeb-master\Proyectoactualizado2.2\MicroservicioVenta\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.deps.json
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.csprojAssemblyReference.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.AssemblyInfo.cs
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.deps.json
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeDominio\bin\Debug\netcoreapp3.1\CapaDeDominio.pdb
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.csprojAssemblyReference.cache
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.AssemblyInfoInputs.cache
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.AssemblyInfo.cs
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.csproj.CoreCompileInputs.cache
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.dll
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\CapaDeDominio\obj\Debug\netcoreapp3.1\CapaDeDominio.pdb

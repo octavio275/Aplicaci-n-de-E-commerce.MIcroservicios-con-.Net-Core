@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>Tienda Web | Panel de control</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.ckeditor.com/4.14.0/standard/ckeditor.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        .centrar {
+            text-align: center;
+        }
+        
+        .centrar-boton {
+            vertical-align: middle!important;
+        }
+        
+        .titulo {
+            vertical-align: middle!important;
+        }
+        
+        .precio {
+            vertical-align: middle!important;
+        }
+        
+        .cantidad {
+            vertical-align: middle!important;
+        }
+        
+        .stock {
+            vertical-align: middle!important;
+        }
+        
+        .boton-centro {
+            vertical-align: middle!important;
+        }
+        
+        #global {
+            height: 300px;
+            width: 820px;
+            border: 1px solid #ddd;
+            background: #f1f1f1;
+            overflow-y: scroll;
+        }
+        
+        #mensajes {
+            height: auto;
+        }
+        
+        .texto {
+            padding: 4px;
+            background: #fff;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="panel.html">Present</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li><a href="panel.html">Panel de control</a></li>
+                <li class="active"><a href="panelProductos.html">Productos</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#"><span class="glyphicon glyphicon-user"></span> Cerrar sesión </a></li>
+            </ul>
+        </div>
+    </nav>
+    <header class="site-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10">
+                    <h1><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Panel de control <small>Administre su sitio</small> </h1>
+                </div>
+                <div class="col-md-2">
+                    <div class="dropdown crear">
+                        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                          Crear Contenido
+                        </button>
+
+                        <ul class="dropdown-menu " aria-labelledby="dropdownMenu1">
+                            <li><a class="dropdown-item" data-toggle="modal" data-target="#AgregarProducto">Agregar Productos</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section id="breadcrumb">
+        <div class="container">
+            <ol class="breadcrumb">
+                <li class="active">Panel de control / Productos</li>
+            </ol>
+        </div>
+    </section>
+    <section id="main">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <ul class="list-group ">
+                        <a href="index.html" class="list-group-item active color-principal"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Panel de control <span class="badge"></span></a>
+                        <a href="panelProductos.html" class="list-group-item"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Productos<span class="badge">10</span></a>
+
+                    </ul>
+
+                </div>
+                <div class="col-md-9">
+
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h3 class="panel-title"> Productos</h3>
+                        </div>
+                        <div class="panel-body">
+                            <div class="panel-body">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <input type="text" class="form-control" placeholder="filtrar productos">
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="global">
+                                <table class="table table-striped table-hover">
+                                    <tr>
+                                        <th>Imagen</th>
+                                        <th>Producto</th>
+                                        <th>Precio</th>
+                                        <th>Cantidad</th>
+                                        <th>Stock</th>
+                                        <th></th>
+                                        <th></th>
+                                    </tr>
+
+
+                                    <tr>
+                                        <td><img src="images/1.jpg" alt="" style="width: 100px;"></td>
+                                        <td class=" titulo">Short verano/algodon 100%</td>
+                                        <td class="precio"><span>$3404</span></td>
+                                        <td class="cantidad"><span>20 unidades</span></td>
+                                        <td class="stock"><span>20 productos</span></td>
+                                        <td class="boton-centro"><button class="btn btn-success">Editar</button></td>
+                                        <td class="boton-centro"><button class="btn btn-danger">Borrar</button></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td><img src="images/1.jpg" alt="" style="width: 100px;"></td>
+                                        <td class=" titulo">Short verano/algodon 100%</td>
+                                        <td class="precio"><span>$3404</span></td>
+                                        <td class="cantidad"><span>20 unidades</span></td>
+                                        <td class="stock"><span>20 productos</span></td>
+                                        <td class="boton-centro"><button class="btn btn-success">Editar</button></td>
+                                        <td class="boton-centro"><button class="btn btn-danger">Borrar</button></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td><img src="images/1.jpg" alt="" style="width: 100px;"></td>
+                                        <td class=" titulo">Short verano/algodon 100%</td>
+                                        <td class="precio"><span>$3404</span></td>
+                                        <td class="cantidad"><span>20 unidades</span></td>
+                                        <td class="stock"><span>20 productos</span></td>
+                                        <td class="boton-centro"><button class="btn btn-success">Editar</button></td>
+                                        <td class="boton-centro"><button class="btn btn-danger">Borrar</button></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td><img src="images/1.jpg" alt="" style="width: 100px;"></td>
+                                        <td class=" titulo">Short verano/algodon 100%</td>
+                                        <td class="precio"><span>$3404</span></td>
+                                        <td class="cantidad"><span>20 unidades</span></td>
+                                        <td class="stock"><span>20 productos</span></td>
+                                        <td class="boton-centro"><button class="btn btn-success">Editar</button></td>
+                                        <td class="boton-centro"><button class="btn btn-danger">Borrar</button></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td><img src="images/1.jpg" alt="" style="width: 100px;"></td>
+                                        <td class=" titulo">Short verano/algodon 100%</td>
+                                        <td class="precio"><span>$3404</span></td>
+                                        <td class="cantidad"><span>20 unidades</span></td>
+                                        <td class="stock"><span>20 productos</span></td>
+                                        <td class="boton-centro"><button class="btn btn-success">Editar</button></td>
+                                        <td class="boton-centro"><button class="btn btn-danger">Borrar</button></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td><img src="images/1.jpg" alt="" style="width: 100px;"></td>
+                                        <td class=" titulo">Short verano/algodon 100%</td>
+                                        <td class="precio"><span>$3404</span></td>
+                                        <td class="cantidad"><span>20 unidades</span></td>
+                                        <td class="stock"><span>20 productos</span></td>
+                                        <td class="boton-centro"><button class="btn btn-success">Editar</button></td>
+                                        <td class="boton-centro"><button class="btn btn-danger">Borrar</button></td>
+
+                                    </tr>
+
+
+
+
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+    <footer class="site-footer">
+        <p>Copyright Present 2020 &copy; </p>
+    </footer>
+    <!-- Modal -->
+    <!-- Modal -->
+    <div class="modal fade" id="AgregarPagina" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <form>
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Agregar Página</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label>Titulo de la página</label>
+                            <input type="text" class="form-control" placeholder="Titulo de la página">
+                        </div>
+                        <div class="form-group">
+                            <label>Información de la página</label>
+                            <textarea name="editor1" class="form-control" placeholder="Información de la página"></textarea>
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox">Publicado
+                            </label>
+                        </div>
+                        <div class="form-group">
+                            <label>Palabras clave</label>
+                            <textarea name="text" class="form-control" placeholder="Agregar algunas palabras.."></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label>Meta descripcion</label>
+                            <textarea name="text" class="form-control" placeholder="Agregar descripcioón.."></textarea>
+                        </div>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Guardar Cambios</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- Modal -->
+    <!-- Modal -->
+    <div class="modal fade" id="AgregarProducto" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <form id="dataForm">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Agregar Producto</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label>Codigo</label>
+                            <input type="text" name="Codigo" class="form-control" placeholder="Codigo del producto">
+                        </div>
+                        <div class="form-group">
+                            <label>Marca</label>
+                            <input type="text" name="Marca" class="form-control" placeholder="Marca del producto">
+                        </div>
+                        <div class="form-group">
+                            <label>Nombre</label>
+                            <input type="text" name="Nombre" class="form-control" placeholder="Nombre del producto">
+                        </div>
+                        <div class="form-group">
+                            <label>Precio</label>
+                            <input type="number" name="Precio" class="form-control" placeholder="Precio del producto">
+                        </div>
+                        <div class="form-group">
+                            <input type="file" name="archivosubido">
+                        </div>
+
+
+                        <div class="form-group">
+                            <label>Meta descripcion</label>
+                            <textarea name="text" class="form-control" placeholder="Agregar descripcioón.."></textarea>
+                        </div>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                        <input class="btn btn-large btn-primary" value="Aplicar Cambios" type="submit">
+                        <button type="button" class="btn btn-primary" onclick="processData()">Guardar Cambios</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+<!--Boopstrap 4 links-->
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<!--FIREBASE SCRIPT-->
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-app.js"></script>
+<!--Add SDKs for Firebase  autentication -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-auth.js"></script>
+<!-- TODO: Add SDKs for Firebase products that you want to use
+       https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-analytics.js"></script>
+<!--Script Connection Firebase-->
+<script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+        apiKey: "AIzaSyByEtWI3BOnbr1K2cjrpa3eKOaQx7AXnGI",
+        authDomain: "usuario-5093e.firebaseapp.com",
+        databaseURL: "https://usuario-5093e.firebaseio.com",
+        projectId: "usuario-5093e",
+        storageBucket: "usuario-5093e.appspot.com",
+        messagingSenderId: "638040248867",
+        appId: "1:638040248867:web:574ef1ae221e7202ee9796",
+        measurementId: "G-2MHWFFY2J5"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+    const auth = firebase.auth();
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js "></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js "></script>
+<script src="js/scripts.js "></script>
+
+
+</html>

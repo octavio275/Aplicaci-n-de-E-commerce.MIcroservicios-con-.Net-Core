@@ -1,0 +1,73 @@
+C:\Users\Alan\source\repos\Data\bin\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\Alan\source\repos\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Alan\source\repos\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\facun\Desktop\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\facun\Desktop\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\facun\Desktop\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\facun\Desktop\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\facun\Desktop\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\facun\Desktop\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\facun\Desktop\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\facun\Desktop\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\facun\Desktop\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\facun\Desktop\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\facun\Desktop\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\facun\Desktop\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Aplication.pdb
+C:\Users\facun\Desktop\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\facun\Desktop\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\facun\Desktop\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\facun\Desktop\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\facun\Desktop\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Aplication.pdb
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Alan\Pictures\INFORME METODOLOGIA\MicroservicioUser\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Aplication.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Alan\Documents\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Aplication.pdb
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\facun\Desktop\sdfss\Repositorio Microservicios\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
